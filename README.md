@@ -1,15 +1,18 @@
 ### [![MasterHead](https://github.com/LaurentSanson/LaurentSanson/blob/main/header.png)](https://github.com/LaurentSanson)
 
-![](https://komarev.com/ghpvc/?username=LaurentSanson&color=blue)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/LaurentSanson)
+<h3> <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> About me:</h3>
+<p>🇫🇷 I'm French. I know, we can't be perfect...</p>
+<p>💻 I'm working mainly on Symfony application but I <strike>love</strike> need to learn anything, everyday</p>
+<p>🔥 I'm trying to be a craftmanship</p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/laurent-sanson-77718b18b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<h3>:link: &nbsp; Connect with me:</h3>
+<p>
+  <a href="mailto:contact@laurentsanson.pro@gmail.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Laurent%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..." target="blank"><img align="center" src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/laurent-sanson-77718b18b/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
+<h3>🛠 &nbsp; Languages and Tools:</h3>
+<p> 
   <a href="https://www.php.net/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="php" width="40" height="40"/> </a> 
   <a href="https://symfony.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/> </a> 
   <a href="https://fr.reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
@@ -22,21 +25,4 @@
   <a href="https://nodejs.org/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
 </p>
 
-<h3 align="center">My Github stats:</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurentSanson)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**LaurentSanson/LaurentSanson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
