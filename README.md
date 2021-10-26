@@ -23,9 +23,7 @@
 </p>
 
 <h3 align="center">My Github stats:</h3>
-<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurentSanson)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 <!--
 **LaurentSanson/LaurentSanson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
