@@ -7,7 +7,7 @@
 
 <h3>:link: &nbsp; Connect with me:</h3>
 <p>
-  <a href="mailto:contact@laurentsanson.pro@gmail.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Laurent%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..." target="blank"><img align="center" src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="mailto:laurentsanson.pro@gmail.com?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Laurent%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..." target="blank"><img align="center" src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/laurent-sanson-77718b18b/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" /></a>
 </p>
 
